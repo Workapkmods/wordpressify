@@ -1,0 +1,1 @@
+mu-plugins/drop-ins/object-cache/object-cache-stable.php
